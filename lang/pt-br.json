@@ -35,7 +35,7 @@
 
     "CANDELAFVTT.drives": "Motivações",
     "CANDELAFVTT.resistances": "Resistencias",
-    "CANDELAFVTT.abilities": "Especialidades",
+    "CANDELAFVTT.abilities": "Habilidades",
     "CANDELAFVTT.illumination": "Iluminação",
     "CANDELAFVTT.gear": "Equipamento",
     "CANDELAFVTT.actions": "Ações",
@@ -57,18 +57,28 @@
     "CANDELAFVTT.itemAttributes": "Atributos",
     "CANDELAFVTT.itemActionRatings": "Valores de Ação",
 
-    "CANDELAFVTT.abilityAdd": "Adicionar Especialidade",
+    "CANDELAFVTT.abilityAdd": "Adicionar Habilidade",
 
     "CANDELAFVTT.gearAdd": "Adicionar Equipamento",
 
     "CANDELAFVTT.illuminationKeyAdd": "Adicionar Chave de Iluminação",
 
     "CANDELAFVTT.abilities-description": "Escolha um na criação de personagem e uma sempre que seu circulo avançar.",
-    "CANDELAFVTT.illumination-description": "Quando o contador de Iluminação estiver cheio, apague-o. QUalquer iluminação restante contará para seu próximo circulo de avanço. Em seguida, escolha uma nova habilidade de circulo, todos os jogadores podem escolher suas opções de avanço de personagem. Os circulos em negrito representam marcos, os quais podem beneficiar nas mecânicas, dependendo das habilidades que o circulo possui.",
+    "CANDELAFVTT.illumination-description": "Quando o contador de Iluminação estiver cheio, apague-o. Qualquer iluminação restante contará para seu próximo circulo de avanço. Em seguida, escolha uma nova habilidade de circulo, todos os jogadores podem escolher suas opções de avanço de personagem. Os circulos em negrito representam marcos, os quais podem beneficiar nas mecânicas, dependendo das habilidades que o circulo possui.",
 
     "CANDELAFVTT.driveBonus": "Adicionar motivações",
     "CANDELAFVTT.driveBonusDescription": "Adicione motivações adicionais de si ou dos seus colegas investigadores",
+    "CANDELAFVTT.gildedDiceBonus": "Adicionar Dado Dourado",
+    "CANDELAFVTT.gildedDiceDescription": "Adicionar dados dourados adicionais, como em Treinamento em Stamina",
     "CANDELAFVTT.roll": "Teste sua sorte!",
+
+    "CANDELAFVTT.oneDieRollFlavorLabel": "1 Dado",
+    "CANDELAFVTT.multipleDiceRollFlavorLabel": "Melhor de {number} dados",
+    "CANDELAFVTT.oneGildedDieRollFlavorLabel": "1 Dado Dourado",
+    "CANDELAFVTT.multipleGildedDiceRollFlavorLabel": "Melhor de {number} Dados Dourados",
+    "CANDELAFVTT.noDiceRollFlavorLabel": "Sem dados (Valor mais Baixo)",
+    "CANDELAFVTT.noDiceNormalDieRollFlavorLabel": "Sem dados (Valor mais Baixo)",
+    "CANDELAFVTT.noDiceGildedDieRollFlavorLabel": "Sem dados, dourados (Valor mais Baixo)"
 
     "CANDELAFVTT.errors-invalid-spec": "A especialidade escolhida não é compativel com seu papel!"
 
