@@ -78,7 +78,7 @@
     "CANDELAFVTT.multipleGildedDiceRollFlavorLabel": "Melhor de {number} Dados Dourados",
     "CANDELAFVTT.noDiceRollFlavorLabel": "Sem dados (Valor mais Baixo)",
     "CANDELAFVTT.noDiceNormalDieRollFlavorLabel": "Sem dados (Valor mais Baixo)",
-    "CANDELAFVTT.noDiceGildedDieRollFlavorLabel": "Sem dados, dourados (Valor mais Baixo)"
+    "CANDELAFVTT.noDiceGildedDieRollFlavorLabel": "Sem dados, dourado (Valor mais Baixo)"
 
     "CANDELAFVTT.errors-invalid-spec": "A especialidade escolhida não é compativel com seu papel!"
 
